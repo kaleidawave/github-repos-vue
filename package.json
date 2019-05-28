@@ -45,10 +45,10 @@
   ],
   "keywords": [
     "github-api",
-    "github-repo",
-    "github",
+    "github-repos",
+    "vue",
     "vuejs",
-    "table"
+    "html-table"
   ],
-  "description": "Forms a table of a users github repos along with some info about them. Made in ~ 3 hours"
+  "description": "Forms a table of a users github repos along with some info about them."
 }
